@@ -1,0 +1,19 @@
+@import './basics/base.css';
+
+@import './setup/keyframes.css';
+
+@import './pages/home.css';
+@import './pages/about.css';
+@import './pages/book-app.css';
+@import './pages/book-details.css';
+
+
+
+@import './cmps/book-list.css';
+@import './cmps/book-preview.css';
+@import './cmps/book-filter.css';
+@import './cmps/app-header.css';
+@import './cmps/star-rating.css';
+@import './cmps/reviews-list.css';
+@import './cmps/add-book.css';
+@import './cmps/user-msg.css';

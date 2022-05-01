@@ -1,0 +1,21 @@
+.home {
+    text-align: center;
+    font-size: 30px;
+}
+
+.home button {
+    width: 50%;
+    height: 100px;
+    font-size: 100%;
+    border-radius: 50px;
+}
+
+.home button:hover {
+    cursor: pointer;
+    background-color: aliceblue;
+}
+
+.home img {
+    width: 80%;
+    height: 500px;
+}

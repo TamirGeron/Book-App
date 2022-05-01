@@ -1,0 +1,20 @@
+.reviews-list {
+    text-align: left;
+    margin-right: 20px;
+}
+
+.reviews-list ol {
+    background-color: antiquewhite;
+    padding: 0;
+} 
+
+.reviews-list .review {
+    display: flex;
+    justify-content: space-between;
+    border: 1px black solid;
+}
+
+.reviews .review button {
+    height: 30px;
+    width: 30px;    
+}

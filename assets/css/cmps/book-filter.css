@@ -1,0 +1,11 @@
+.book-filter {
+    padding: 10px;
+    font-size: 20px;
+}
+.book-filter label{
+    margin-right: 30px;
+}
+
+.book-filter label {
+    display:inline-block;
+}
